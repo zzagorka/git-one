@@ -1,7 +1,4 @@
 body{
   background: red;
-}
-p{
-  background: yellow;
-  border: 1px solid black;
+  margin: 20px;
 }
